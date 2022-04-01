@@ -1,0 +1,43 @@
+{
+  "name": "@stdlib/constants-float32-sqrt-eps",
+  "version": "0.0.0",
+  "description": "Square root of single-precision floating-point epsilon.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/constants-float32-sqrt-eps.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "constant",
+    "const",
+    "mathematics",
+    "math",
+    "float",
+    "real",
+    "single",
+    "single-precision",
+    "floating-point",
+    "float32",
+    "32bit",
+    "32-bit",
+    "ieee754",
+    "epsilon",
+    "eps",
+    "number",
+    "sqrt",
+    "square",
+    "root"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
