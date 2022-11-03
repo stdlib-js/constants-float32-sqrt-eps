@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_SQRT_EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-sqrt-eps@deno/mod.js';
+import FLOAT32_SQRT_EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-sqrt-eps@v0.0.7-deno/mod.js';
 ```
 
 #### FLOAT32_SQRT_EPS
@@ -58,7 +58,7 @@ import abs from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-abs@den
 import max from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-max@deno/mod.js';
 import float64ToFloat32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-to-float32@deno/mod.js';
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import FLOAT32_SQRT_EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-sqrt-eps@deno/mod.js';
+import FLOAT32_SQRT_EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-sqrt-eps@v0.0.7-deno/mod.js';
 
 var bool;
 var a;
