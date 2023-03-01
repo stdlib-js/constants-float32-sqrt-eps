@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/sqrt-eps"
-click B href "https://github.com/stdlib-js/constants-float32-sqrt-eps/tree/main"
-click C href "https://github.com/stdlib-js/constants-float32-sqrt-eps/tree/production"
-click D href "https://github.com/stdlib-js/constants-float32-sqrt-eps/tree/esm"
-click E href "https://github.com/stdlib-js/constants-float32-sqrt-eps/tree/deno"
-click F href "https://github.com/stdlib-js/constants-float32-sqrt-eps/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/sqrt-eps"
+%% click B href "https://github.com/stdlib-js/constants-float32-sqrt-eps/tree/main"
+%% click C href "https://github.com/stdlib-js/constants-float32-sqrt-eps/tree/production"
+%% click D href "https://github.com/stdlib-js/constants-float32-sqrt-eps/tree/esm"
+%% click E href "https://github.com/stdlib-js/constants-float32-sqrt-eps/tree/deno"
+%% click F href "https://github.com/stdlib-js/constants-float32-sqrt-eps/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/sqrt-eps
