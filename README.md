@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_SQRT_EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-sqrt-eps@esm/index.mjs';
+import FLOAT32_SQRT_EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-sqrt-eps@v0.1.0-esm/index.mjs';
 ```
 
 #### FLOAT32_SQRT_EPS
@@ -74,7 +74,7 @@ import abs from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-abs@esm
 import max from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-max@esm/index.mjs';
 import float64ToFloat32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-to-float32@esm/index.mjs';
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import FLOAT32_SQRT_EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-sqrt-eps@esm/index.mjs';
+import FLOAT32_SQRT_EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-sqrt-eps@v0.1.0-esm/index.mjs';
 
 var bool;
 var a;
