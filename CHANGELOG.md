@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-06-30)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`9b9c746`](https://github.com/stdlib-js/stdlib/commit/9b9c7468b6c0c0d2575bbeedbee96c9bcee64b26) - **chore:** update test messages in `constants/float32` [(#6773)](https://github.com/stdlib-js/stdlib/pull/6773) _(by Harsh)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Harsh
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
